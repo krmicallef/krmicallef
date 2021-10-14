@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @krmicallef
+- 👀 I’m interested in building interesting and creative software solutions and developing my skills as a programmer.
+- 🌱 I’m currently learning python and javascript/HTLM/CSS.
+- 💞️ I’m looking to collaborate on ...
